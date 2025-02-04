@@ -1,1 +1,1 @@
-*.macro linguist-language=json
+*.macro linguist-language=json linguist-detectable
